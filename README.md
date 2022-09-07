@@ -5,5 +5,5 @@ This program makes use of a library called pyttsx3. The library allows for progr
 ## How to use?
 The program will as you a simple question, such as "what is your name?" and you as a user will type the responce. In the future I may remake this to use a voice as a response.
 
-# Usage:
+## Usage:
 Completely no limits to use. Free to do as you wish.
